@@ -10,9 +10,9 @@ TrueIce.co is a moissanite jewelry resell brand built for the ones who like to f
 We’re bringing you affordable luxury that stays icy 24/7. ✨
 
 This site was designed to:
-- Showcase featured products 💍
-- Let customers reach out 📩
-- Serve as a clean & professional front for your brand 🌐
+- Have you shining with ice without ever breaking the bank 🧊
+- Let customers reach out at TrueIce.co@gmail.com 📧
+- Sell affordable Moisannite Jewerly that passes thermal diamond tests at a low cost 🔥
 
 ---
 
@@ -29,14 +29,3 @@ Built with:
 ## 📸 Screenshot Preview (optional)
 
 ![TrueIce Preview](https://via.placeholder.com/800x400.png?text=Website+Preview)
-
----
-
-## 📂 Folder Structure
-
-```plaintext
-📁 trueice.co/
-├── index.html        # Main homepage
-├── style.css         # Styling for the site
-├── script.js         # JavaScript logic (light for now)
-└── README.md         # This file you're reading
